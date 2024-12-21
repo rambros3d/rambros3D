@@ -3,8 +3,8 @@
 
 <svg
    style="isolation:isolate"
-   viewBox="0 0 3000 1000"
-   width="3000pt"
+   viewBox="0 0 5000 1000"
+   width="5000pt"
    height="1000pt"
    version="1.1"
    id="svg8"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#000000"
      inkscape:document-units="pt"
-     inkscape:zoom="0.2398125"
-     inkscape:cx="1772.2179"
-     inkscape:cy="529.5804"
+     inkscape:zoom="0.16957305"
+     inkscape:cx="3331.8975"
+     inkscape:cy="636.89368"
      inkscape:window-width="2048"
      inkscape:window-height="1214"
      inkscape:window-x="0"
@@ -83,13 +83,13 @@
          id="rect1"
          x="0"
          y="0" /></clipPath></defs><rect
-     style="isolation:isolate;fill:#002f3f;fill-opacity:1;stroke:none;stroke-width:5.14441;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     style="isolation:isolate;fill:#002f3f;fill-opacity:1;stroke:none;stroke-width:7.05336;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      id="rect3"
-     width="2500.0981"
-     height="850.09808"
+     width="4700.0488"
+     height="850.04907"
      x="299.95096"
      y="99.950981"
-     rx="116.83884" /><image
+     rx="219.65068" /><image
      width="1000"
      height="1000"
      preserveAspectRatio="none"
@@ -102,19 +102,13 @@
      id="text1"
      style="font-size:533.333px;font-family:Belanosima;-inkscape-font-specification:'Belanosima, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;stroke-width:6.667;stroke-linecap:round;paint-order:fill markers stroke" /><text
      xml:space="preserve"
-     transform="matrix(38.690211,0,0,38.690211,-82670.315,-14775.227)"
+     transform="matrix(50.822054,0,0,50.822054,-108025.06,-19340.701)"
      id="text10"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.3454px;line-height:0.8;font-family:Lexend;-inkscape-font-specification:'Lexend, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3454px;line-height:0.8;font-family:Belanosima;-inkscape-font-specification:'Belanosima, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      x="0"
      y="0"><tspan
-       x="2163.1199"
-       y="394.22889"
-       id="tspan6"><tspan
+       x="2145.9162"
+       y="394.40126"
+       id="tspan2"><tspan
          style="text-anchor:middle"
-         id="tspan2">Dragon
-</tspan></tspan><tspan
-       x="2161.974"
-       y="403.30521"
-       id="tspan8"><tspan
-         style="text-anchor:middle"
-         id="tspan7">Railway</tspan></tspan></text></svg>
+         id="tspan1">Dragon Railway</tspan></tspan></text></svg>
